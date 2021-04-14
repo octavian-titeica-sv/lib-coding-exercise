@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- margin sizes -->
+    <dimen name="app_margin_8_dp">8dp</dimen>
+    <dimen name="app_margin_16_dp">16dp</dimen>
+
+    <!-- text sizes -->
+    <dimen name="big_text">16sp</dimen>
+    <dimen name="normal_text">12sp</dimen>
+
+    <!-- Album Item dimensions -->
+    <dimen name="album_item_padding_start_end">@dimen/app_margin_16_dp</dimen>
+    <dimen name="album_item_padding_top_bottom">@dimen/app_margin_8_dp</dimen>
+</resources>
